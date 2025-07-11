@@ -80,7 +80,7 @@ Improved skills in Node.js, Express, and full stack app deployment
 🔗 LinkedIn Post
 
 Link to LinkedIn Post
-
+https://www.linkedin.com/posts/aasika-madhavan-5656352a6_prodigyinfotech-realtimechatapp-socketio-activity-7349405576428179456-Coa2
 
 ---
 
